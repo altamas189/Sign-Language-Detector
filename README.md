@@ -1,5 +1,4 @@
-# Sign-Language-Detector
-A machine learning model to recognize sign language symbols using a Random Forest classifier trained on custom gesture data
+
 
 # 🧏 Sign Language Detection using Machine Learning
 
